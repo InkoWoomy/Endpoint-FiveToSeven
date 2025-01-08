@@ -1,0 +1,6 @@
+@Endpoint_FiveToSeven_HostAddress = http://localhost:5273
+
+GET {{Endpoint_FiveToSeven_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
